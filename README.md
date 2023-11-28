@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hemingguo, also you can call me Xiang Jiang, which is my Chinese name.
+- 👋 Hi, I’m @hemingguo, and also you can call me Xiang Jiang, which is my Chinese name.
 - 👀 I am interested in literature(specially Japanese literature), art (painting(especially Japanese comics), classical or modern dance, music(specially ボーカロイド and electronic music)),
 - game(LOL, Shadowverse, Genshin，Arknights, A Dance of Fire and Ice, steam...)
 - 🌱 I am currently studying for a bachelor's degree in software engineering at Nanjing University.I would love to join this community and contribute to it.
