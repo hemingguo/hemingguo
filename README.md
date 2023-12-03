@@ -6,7 +6,7 @@
 - 📫 You can reach me by email "sosljsos@pm.me" or "sosljsos@qq.com".
 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemingguo&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)
-- [![trophy](https://github-profile-trophy.vercel.app/?username=hemingguo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+- [![trophy](https://github-profile-trophy.vercel.app/?username=hemingguo&theme=onedark&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2042%20mins-blue)
