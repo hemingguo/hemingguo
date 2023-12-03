@@ -6,6 +6,7 @@
 - 📫 You can reach me by email "sosljsos@pm.me" or "sosljsos@qq.com".
 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemingguo&show_icons=true&count_private=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemingguo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
