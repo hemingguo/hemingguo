@@ -3,7 +3,7 @@
 - 🎮 I don’t have any favorite games. The games I often play include LOL, Shadowverse, Genshin, Arknights, A Dance of Fire and Ice, as well as many other games on the steam.
 - 🌱 I am currently studying for a bachelor's degree in software engineering at Nanjing University.I would love to join this community and contribute to it.
 
-- 📫 You can reach me by email "sosljsos@pm.me" or "sosljsos@qq.com".
+- 📫 You can reach me by email "sosljsos@pm.me".
 
 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemingguo&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)
