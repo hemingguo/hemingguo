@@ -13,7 +13,7 @@
 - [![trophy](https://github-profile-trophy.vercel.app/?username=hemingguo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemingguo&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,23 +56,23 @@ Sunday                   42 commits          ███████████�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    32 hrs 49 mins      █████████████████████████   98.81 % 
-C                        15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Other                    33 hrs 9 mins       █████████████████████████   98.82 % 
+C                        15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 C++                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-Edge                     32 hrs 49 mins      █████████████████████████   98.81 % 
-VS Code                  23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Edge                     33 hrs 9 mins       █████████████████████████   98.82 % 
+VS Code                  23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🐱‍💻 Projects: 
-C++                      24 hrs 42 mins      ███████████████████░░░░░░   74.40 % 
-MyShapez(2)              7 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-KKManager                58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+C++                      29 hrs 49 mins      ██████████████████████░░░   88.88 % 
+MyShapez(2)              2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+KKManager                58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 Math-for-Programmers     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-netflix-hezu.github.io   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Math-for-Programmers-zh  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  33 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -89,7 +89,7 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2024 18:35:07 UTC
+ Last Updated on 07/01/2024 18:35:11 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
