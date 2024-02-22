@@ -13,7 +13,7 @@
 - [![trophy](https://github-profile-trophy.vercel.app/?username=hemingguo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemingguo&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-425%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-426%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,18 +56,18 @@ Sunday                   42 commits          ███████████�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    13 hrs 3 mins       █████████████████████████   100.00 % 
+Other                    12 hrs 19 mins      █████████████████████████   100.00 % 
 C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Edge                     13 hrs 3 mins       █████████████████████████   100.00 % 
+Edge                     12 hrs 19 mins      █████████████████████████   100.00 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-C++                      13 hrs 3 mins       █████████████████████████   100.00 % 
+C++                      12 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -84,7 +84,7 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2024 18:35:09 UTC
+ Last Updated on 22/02/2024 18:34:43 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
