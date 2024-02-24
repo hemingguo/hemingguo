@@ -13,15 +13,13 @@
 - [![trophy](https://github-profile-trophy.vercel.app/?username=hemingguo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemingguo&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-427%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-431%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 371.3 kB Used in GitHub's Storage 
- > 
-> 🏆 7 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,16 +54,16 @@ Sunday                   42 commits          ███████████�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs              █████████████████████████   100.00 % 
+Other                    13 hrs 32 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Edge                     12 hrs              █████████████████████████   100.00 % 
+Edge                     13 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-C++                      12 hrs              █████████████████████████   100.00 % 
+C++                      13 hrs 32 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs              █████████████████████████   100.00 % 
+Windows                  13 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -82,7 +80,7 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2024 18:35:39 UTC
+ Last Updated on 24/02/2024 18:34:32 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
