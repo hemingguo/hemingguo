@@ -13,11 +13,13 @@
 - [![trophy](https://github-profile-trophy.vercel.app/?username=hemingguo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemingguo&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-519%20hrs%2048%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 371.7 kB Used in GitHub's Storage 
+> 📦 372.8 kB Used in GitHub's Storage 
  > 
 > 🏆 7 Contributions in the Year 2024
  > 
@@ -30,21 +32,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                20 commits          █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-🌆 Daytime                55 commits          █████████████░░░░░░░░░░░░   52.38 % 
-🌃 Evening                30 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+🌞 Morning                20 commits          █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+🌆 Daytime                55 commits          █████████████░░░░░░░░░░░░   51.40 % 
+🌃 Evening                32 commits          ███████░░░░░░░░░░░░░░░░░░   29.91 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Tuesday                  19 commits          █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Thursday                 13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Friday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Saturday                 6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Sunday                   42 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
+Monday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Tuesday                  21 commits          █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Thursday                 13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Friday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Saturday                 6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Sunday                   42 commits          ██████████░░░░░░░░░░░░░░░   39.25 % 
 ```
 
 
@@ -90,7 +92,7 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2024 07:37:47 UTC
+ Last Updated on 19/03/2024 18:35:02 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
