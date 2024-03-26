@@ -13,7 +13,7 @@
 - [![trophy](https://github-profile-trophy.vercel.app/?username=hemingguo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemingguo&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-558%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
@@ -56,26 +56,25 @@ Sunday                   42 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    30 hrs 14 mins      █████████████████░░░░░░░░   69.89 % 
-C++                      12 hrs 59 mins      ████████░░░░░░░░░░░░░░░░░   30.04 % 
+Other                    31 hrs 1 min        ████████████████████░░░░░   79.22 % 
+C++                      8 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
 C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Edge                     30 hrs 14 mins      █████████████████░░░░░░░░   69.89 % 
-CLion                    12 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Edge                     31 hrs 1 min        ████████████████████░░░░░   79.22 % 
+CLion                    7 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🐱‍💻 Projects: 
-WindowsReleasev1.2       15 hrs 43 mins      █████████░░░░░░░░░░░░░░░░   36.35 % 
-Shipshipship             15 hrs 21 mins      █████████░░░░░░░░░░░░░░░░   35.48 % 
-Shipshipship-main        6 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-testcode.py              4 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Shipshipship-faster      42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+WindowsReleasev1.2       15 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   40.17 % 
+Shipshipship-main        10 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   26.84 % 
+Shipshipship             7 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+testcode.py              4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Shipshipship-faster      42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 💻 Operating System: 
-Windows                  43 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  39 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -92,7 +91,7 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2024 18:35:10 UTC
+ Last Updated on 26/03/2024 18:35:01 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
