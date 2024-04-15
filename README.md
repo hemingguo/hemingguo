@@ -13,6 +13,8 @@
 - [![trophy](https://github-profile-trophy.vercel.app/?username=hemingguo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemingguo&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-669%20hrs%2054%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -71,8 +73,8 @@ Windows                  40 hrs 52 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-C++                      2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Python                   3 repos             ███████████████░░░░░░░░░░   60.00 % 
+C++                      2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
 ```
 
 
@@ -82,7 +84,7 @@ C++                      2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2024 22:57:56 UTC
+ Last Updated on 15/04/2024 18:36:14 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
