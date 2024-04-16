@@ -13,7 +13,7 @@
 - [![trophy](https://github-profile-trophy.vercel.app/?username=hemingguo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemingguo&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-669%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-673%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,20 +54,20 @@ Sunday                   42 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    40 hrs 52 mins      █████████████████████████   100.00 % 
+Other                    38 hrs 21 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Edge                     40 hrs 52 mins      █████████████████████████   100.00 % 
+Edge                     38 hrs 21 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bump.lua?tab=readme-ov-fi26 hrs 38 mins      ████████████████░░░░░░░░░   65.17 % 
-Networking               6 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-ArchLinuxTutorial        5 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-os-workbench             2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-CN-exercises             25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+bump.lua?tab=readme-ov-fi26 hrs 38 mins      █████████████████░░░░░░░░   69.44 % 
+Networking               6 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+NJU_CN2020               3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+ArchLinuxTutorial        1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+CN-exercises             22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 💻 Operating System: 
-Windows                  40 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  38 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +84,7 @@ C++                      2 repos             ██████████░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2024 18:36:14 UTC
+ Last Updated on 16/04/2024 18:35:00 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
