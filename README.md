@@ -13,7 +13,7 @@
 - [![trophy](https://github-profile-trophy.vercel.app/?username=hemingguo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemingguo&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-810%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-816%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -54,23 +54,23 @@ Sunday                   42 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    32 hrs 45 mins      █████████████████████░░░░   84.34 % 
-C                        3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Other                    32 hrs 45 mins      █████████████████████░░░░   84.33 % 
+C                        3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
 ObjectiveC               1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 Objective-C              32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 C++                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-Edge                     32 hrs 45 mins      █████████████████████░░░░   84.34 % 
+Edge                     32 hrs 45 mins      █████████████████████░░░░   84.33 % 
 CLion                    4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
 VS Code                  1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🐱‍💻 Projects: 
-os-workbench             10 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   26.68 % 
-LEC-NJU_CN-Labs          6 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Networking               6 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+os-workbench             15 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   40.73 % 
+LEC-NJU_CN-Labs          6 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
 my_os2022-main           5 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
 fork-bomb                4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+lab-3-hemingguo          2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 
 💻 Operating System: 
 Windows                  38 hrs 50 mins      █████████████████████████   100.00 % 
@@ -90,7 +90,7 @@ C++                      2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2024 18:36:38 UTC
+ Last Updated on 15/05/2024 18:36:38 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
