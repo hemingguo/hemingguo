@@ -13,15 +13,13 @@
 - [![trophy](https://github-profile-trophy.vercel.app/?username=hemingguo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemingguo&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-875%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-879%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 374.2 kB Used in GitHub's Storage 
- > 
-> 🏆 7 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,24 +54,24 @@ Sunday                   42 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    24 hrs 47 mins      ████████████████████████░   96.58 % 
-SQL                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Other                    25 hrs 37 mins      ████████████████████████░   96.69 % 
+SQL                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Edge                     23 hrs 28 mins      ███████████████████████░░   91.43 % 
-VS Code                  2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Edge                     24 hrs 18 mins      ███████████████████████░░   91.70 % 
+VS Code                  2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
 
 🐱‍💻 Projects: 
-C++                      19 hrs 21 mins      ███████████████████░░░░░░   75.38 % 
-JYY-OS                   6 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-lab-2-hemingguo?tab=readm3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+C++                      23 hrs 18 mins      ██████████████████████░░░   87.97 % 
+JYY-OS                   3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+lab-2-hemingguo?tab=readm3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 os-workbench             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 lab-2-hemingguo          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  25 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +88,7 @@ C++                      2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2024 18:36:59 UTC
+ Last Updated on 01/06/2024 18:35:56 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
