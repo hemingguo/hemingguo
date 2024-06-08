@@ -13,7 +13,7 @@
 - [![trophy](https://github-profile-trophy.vercel.app/?username=hemingguo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemingguo&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-898%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-901%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,20 +54,20 @@ Sunday                   42 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    23 hrs 12 mins      █████████████████████████   100.00 % 
+Other                    22 hrs 30 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Edge                     23 hrs 12 mins      █████████████████████████   100.00 % 
+Edge                     22 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-C++                      23 hrs 7 mins       █████████████████████████   99.64 % 
-nju-CS-Network-lab       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+C++                      22 hrs 25 mins      █████████████████████████   99.64 % 
+nju-CS-Network-lab       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 NJU-Networking-Lab       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-oauth                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 nju-network-labs         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+lab-2-hemingguo          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  23 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +84,7 @@ C++                      2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2024 18:38:45 UTC
+ Last Updated on 08/06/2024 18:36:08 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
