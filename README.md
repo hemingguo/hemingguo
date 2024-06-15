@@ -13,13 +13,13 @@
 - [![trophy](https://github-profile-trophy.vercel.app/?username=hemingguo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemingguo&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-924%20hrs%2019%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 374.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 7 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,45 +27,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-🌆 Daytime                66 commits          █████████████░░░░░░░░░░░░   50.38 % 
-🌃 Evening                45 commits          █████████░░░░░░░░░░░░░░░░   34.35 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Tuesday                  27 commits          █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-Wednesday                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-Thursday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Friday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Saturday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-Sunday                   42 commits          ████████░░░░░░░░░░░░░░░░░   32.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    25 hrs 47 mins      █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Edge                     25 hrs 47 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-C++                      25 hrs 47 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  25 hrs 47 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -80,7 +41,7 @@ C++                      2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2024 18:38:42 UTC
+ Last Updated on 15/06/2024 18:37:04 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
