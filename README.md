@@ -13,15 +13,13 @@
 - [![trophy](https://github-profile-trophy.vercel.app/?username=hemingguo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemingguo&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-967%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-970%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 374.2 kB Used in GitHub's Storage 
- > 
-> 🏆 7 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,18 +54,18 @@ Sunday                   42 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    29 hrs 38 mins      █████████████████████████   100.00 % 
+Other                    26 hrs 48 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Edge                     29 hrs 38 mins      █████████████████████████   100.00 % 
+Edge                     26 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-C++                      21 hrs 58 mins      ███████████████████░░░░░░   74.14 % 
-Book-CSAPP               7 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+C++                      15 hrs 40 mins      ███████████████░░░░░░░░░░   58.51 % 
+Book-CSAPP               11 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   41.49 % 
 Book-CSAPP?tab=readme-ov-0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  29 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +82,7 @@ C++                      2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2024 18:36:03 UTC
+ Last Updated on 24/06/2024 18:37:59 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
