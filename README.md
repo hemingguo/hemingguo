@@ -13,13 +13,15 @@
 - [![trophy](https://github-profile-trophy.vercel.app/?username=hemingguo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemingguo&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C247%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C250%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 406.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 54 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,24 +56,24 @@ Sunday                   43 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    45 hrs 39 mins      ███████████████████████░░   92.20 % 
-C                        3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Objective-C              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other                    39 hrs 4 mins       ███████████████████████░░   91.29 % 
+C                        3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Objective-C              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 D                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Edge                     45 hrs 39 mins      ███████████████████████░░   92.20 % 
-VS Code                  3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Edge                     39 hrs 4 mins       ███████████████████████░░   91.29 % 
+VS Code                  3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
 
 🐱‍💻 Projects: 
-os-workbench             18 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   36.57 % 
-Chinese-medical-dialogue-14 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-my_os2022                13 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   26.59 % 
-JYY-OS                   2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-NJUOSLab-L2-kmt          32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+my_os2022                15 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   36.63 % 
+Chinese-medical-dialogue-14 hrs 4 mins       ████████░░░░░░░░░░░░░░░░░   32.89 % 
+os-workbench             9 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+JYY-OS                   2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+NJUOSLab-L2-kmt          32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 💻 Operating System: 
-Windows                  49 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  42 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +91,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2024 18:40:11 UTC
+ Last Updated on 16/08/2024 18:39:39 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
