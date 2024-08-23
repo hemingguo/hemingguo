@@ -54,16 +54,16 @@ Sunday                   43 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    15 hrs 6 mins       █████████████████████████   100.00 % 
+Other                    12 hrs 35 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Edge                     15 hrs 6 mins       █████████████████████████   100.00 % 
+Edge                     12 hrs 35 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-my_os2022                15 hrs 6 mins       █████████████████████████   100.00 % 
+my_os2022                12 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2024 18:39:57 UTC
+ Last Updated on 23/08/2024 18:39:44 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
