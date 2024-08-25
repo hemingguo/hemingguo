@@ -13,7 +13,7 @@
 - [![trophy](https://github-profile-trophy.vercel.app/?username=hemingguo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemingguo&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C264%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C266%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,16 +56,16 @@ Sunday                   43 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    13 hrs 30 mins      █████████████████████████   100.00 % 
+Other                    11 hrs 51 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Edge                     13 hrs 30 mins      █████████████████████████   100.00 % 
+Edge                     11 hrs 51 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-my_os2022                13 hrs 30 mins      █████████████████████████   100.00 % 
+my_os2022                11 hrs 51 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +83,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2024 18:38:06 UTC
+ Last Updated on 25/08/2024 18:37:22 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
