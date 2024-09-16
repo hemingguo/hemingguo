@@ -13,13 +13,15 @@
 - [![trophy](https://github-profile-trophy.vercel.app/?username=hemingguo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemingguo&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C323%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C324%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 406.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 54 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,22 +56,22 @@ Sunday                   43 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    20 hrs 45 mins      ███████████████████████░░   92.99 % 
-Python                   1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Other                    20 hrs 55 mins      ███████████████████████░░   93.03 % 
+Python                   1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 
 🔥 Editors: 
-Edge                     20 hrs 45 mins      ███████████████████████░░   92.99 % 
-VS Code                  1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Edge                     20 hrs 55 mins      ███████████████████████░░   93.03 % 
+VS Code                  1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 
 🐱‍💻 Projects: 
-C++                      15 hrs 52 mins      ██████████████████░░░░░░░   71.11 % 
-NeurIPS_Auto_Bidding_Gene3 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-dragon-book-exercise-answ2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+C++                      17 hrs 18 mins      ███████████████████░░░░░░   76.94 % 
+dragon-book-exercise-answ2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+NeurIPS_Auto_Bidding_Gene2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
 100daysofml.github.io    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 chocopy-llvm             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  22 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +89,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2024 18:40:44 UTC
+ Last Updated on 16/09/2024 18:42:45 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
