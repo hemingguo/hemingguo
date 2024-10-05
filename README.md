@@ -13,7 +13,7 @@
 - [![trophy](https://github-profile-trophy.vercel.app/?username=hemingguo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemingguo&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C372%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C375%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,25 +54,25 @@ Sunday                   43 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    23 hrs 45 mins      ████████████████████████░   94.30 % 
-C                        1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Other                    22 hrs 17 mins      ████████████████████████░   95.04 % 
+C                        1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Edge                     18 hrs 53 mins      ███████████████████░░░░░░   74.95 % 
-VS Code                  6 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+Edge                     18 hrs 27 mins      ████████████████████░░░░░   78.74 % 
+VS Code                  4 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
 
 🐱‍💻 Projects: 
-nju-2024-fall-compiler   17 hrs 7 mins       █████████████████░░░░░░░░   67.94 % 
-蒋庠_221900183             6 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-NJU-Complier-2024-spring 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Compiler                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-CompilerLab              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+nju-2024-fall-compiler   12 hrs 47 mins      ██████████████░░░░░░░░░░░   54.54 % 
+蒋庠_221900183             9 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   39.82 % 
+NJU-Complier-2024-spring 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Compiler                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+CompilerLab              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 💻 Operating System: 
-Windows                  25 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +90,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2024 18:42:59 UTC
+ Last Updated on 05/10/2024 18:40:26 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
