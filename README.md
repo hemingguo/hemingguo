@@ -13,8 +13,6 @@
 - [![trophy](https://github-profile-trophy.vercel.app/?username=hemingguo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemingguo&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C441%20hrs%2022%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -27,55 +25,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                24 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-🌆 Daytime                90 commits          ██████████████░░░░░░░░░░░   54.88 % 
-🌃 Evening                50 commits          ████████░░░░░░░░░░░░░░░░░   30.49 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Tuesday                  30 commits          █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Wednesday                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Thursday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Friday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Saturday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Sunday                   44 commits          ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    38 hrs 40 mins      ██████████████████████░░░   86.00 % 
-C++                      3 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Python                   1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-TeX                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-
-🔥 Editors: 
-Chrome                   39 hrs              ██████████████████████░░░   86.75 % 
-VS Code                  5 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-🐱‍💻 Projects: 
-C++                      29 hrs 59 mins      █████████████████░░░░░░░░   66.71 % 
-ex                       6 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-NeurIPS_Auto_Bidding_Gene6 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-2019-Autumn-recruitment-e33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-project-based-learning   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-
-💻 Operating System: 
-Windows                  44 hrs 57 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -92,7 +41,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2024 18:43:48 UTC
+ Last Updated on 22/10/2024 18:43:29 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
