@@ -13,15 +13,13 @@
 - [![trophy](https://github-profile-trophy.vercel.app/?username=hemingguo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemingguo&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C463%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C469%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 419.5 kB Used in GitHub's Storage 
- > 
-> 🏆 56 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,26 +54,26 @@ Sunday                   44 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    42 hrs 19 mins      ██████████████████████░░░   87.20 % 
-C++                      4 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Python                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-TeX                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-Java                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Other                    38 hrs 46 mins      █████████████████████░░░░   84.84 % 
+C++                      5 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Python                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+TeX                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Java                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Chrome                   42 hrs 15 mins      ██████████████████████░░░   87.08 % 
-VS Code                  6 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Chrome                   38 hrs 41 mins      █████████████████████░░░░   84.67 % 
+VS Code                  7 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-C++                      34 hrs 17 mins      ██████████████████░░░░░░░   70.65 % 
-NeurIPS_Auto_Bidding_Gene6 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-nju-2024-fall-compiler   3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-exIoT                    2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-bluewhale-frontend       1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+C++                      31 hrs 29 mins      █████████████████░░░░░░░░   68.89 % 
+NeurIPS_Auto_Bidding_Gene6 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+nju-2024-fall-compiler   3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+exIoT                    2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+bluewhale-frontend       1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 💻 Operating System: 
-Windows                  48 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  45 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,7 +92,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2024 18:43:31 UTC
+ Last Updated on 25/10/2024 18:43:05 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
