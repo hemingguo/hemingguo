@@ -74,34 +74,15 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C482%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C486%20hrs%2050%20mins-blue)
 
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-
-
-<br>
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 419.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 77 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,21 +93,21 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                24 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-🌆 Daytime                90 commits          ██████████████░░░░░░░░░░░   54.55 % 
-🌃 Evening                51 commits          ████████░░░░░░░░░░░░░░░░░   30.91 % 
+🌞 Morning                24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+🌆 Daytime                107 commits         ██████████████░░░░░░░░░░░   57.84 % 
+🌃 Evening                54 commits          ███████░░░░░░░░░░░░░░░░░░   29.19 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Tuesday                  30 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Wednesday                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Thursday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Friday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Saturday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Sunday                   45 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Monday                   43 commits          ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+Tuesday                  30 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Wednesday                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Thursday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Friday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Saturday                 11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Sunday                   45 commits          ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
 ```
 
 
@@ -136,25 +117,25 @@ Sunday                   45 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    38 hrs 59 mins      █████████████████████░░░░   85.28 % 
-C++                      5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Python                   44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-TeX                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Other                    39 hrs 20 mins      ██████████████████████░░░   86.54 % 
+C++                      5 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Python                   33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+TeX                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 Java                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Chrome                   38 hrs 49 mins      █████████████████████░░░░   84.91 % 
-VS Code                  6 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Chrome                   39 hrs 14 mins      ██████████████████████░░░   86.30 % 
+VS Code                  6 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 
 🐱‍💻 Projects: 
-C++                      36 hrs 9 mins       ████████████████████░░░░░   79.07 % 
-nju-2024-fall-compiler   3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-exIoT                    2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-fucking-algorithm-book   1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-bluewhale-frontend       1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+C++                      35 hrs 47 mins      ████████████████████░░░░░   78.71 % 
+nju-2024-fall-compiler   3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+exIoT                    2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+fucking-algorithm-book   1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+bluewhale-frontend       1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 💻 Operating System: 
-Windows                  45 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  45 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -170,12 +151,10 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 **Timeline**
 
-
-
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2024 18:40:51 UTC
+ Last Updated on 28/10/2024 18:44:08 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
