@@ -48,7 +48,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemingguo&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hemingguo&hide_border=true&theme=tokyonight)](https://git.io/streak-stats)
 
-<br>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hemingguo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
