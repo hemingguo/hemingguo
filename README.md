@@ -1,3 +1,5 @@
+![](https://github.com/hemingguo/hemingguo/blob/main/butterfly_smile.png)
+
 - 👋
   
 Hi, I’m hemingguo. My MBTI is INFJ. "hemingguo"(何明果) is my pen name, derived from "何为焉然，明之世然，果以所何", which is also my motto.
