@@ -2,7 +2,7 @@
   
 Hi, I’m hemingguo. My MBTI is INFJ. "hemingguo"(何明果) is my pen name, derived from "何为焉然，明之世然，果以所何", which is also my motto.
 
-<br>
+
 
 - 🎨
   
@@ -13,14 +13,14 @@ Classical or Modern Dance, I never miss any of the MAGICAL MIRAI，and every yea
 Music(specially ボーカロイド and electronic music)). My favorite ooP artists include wowaka, ナユタン星人, カンザキイオリ, かいりきベア, and many more. <br><br>
 Billiards, and I really want to try Archery.
 
-<br>
+
 
 - 🎮 
 
 
 I don’t have any favorite games. The games I often play include LOL, Shadowverse, CS2, Rimworld, Roguelike, Arknights, スプラトゥーン，Pokémon，A Dance of Fire and Ice, as well as many other games on the steam and switch. Welcome to visit my steam homepage: "https://steamcommunity.com/profiles/76561199354117312/"
 
-<br>
+
 
 - 🌱
 
@@ -28,21 +28,20 @@ I don’t have any favorite games. The games I often play include LOL, Shadowver
 
 I am currently studying for a bachelor's degree in software engineering. I would love to join this community and contribute to it.
 
-<br>
+
 
 - ♎ 
 
 
 I am working hard to build a personal website, so stay tuned.
 
-<br>
+
 
 - 📫 
 
 
 Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 
-<br>
 
 ![](http://antzuhl.cn:4000/get/@hemingguo.readme)
 
