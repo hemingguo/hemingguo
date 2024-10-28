@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hemingguo. My MBTI is INFJ.
 - 🎨 I am interested in literature(specially Japanese literature), art (painting(especially Japanese comics), classical or modern dance, music(specially ボーカロイド and electronic music)), billiards, and I really want to try archery.
-- 🎮 I don’t have any favorite games. The games I often play include LOL, Shadowverse, CS2, Rimworld, Roguelike, Arknights, スプラトゥーン，Pokémon，A Dance of Fire and Ice, as well as many other games on the steam and switch.
+- 🎮 I don’t have any favorite games. The games I often play include LOL, Shadowverse, CS2, Rimworld, Roguelike, Arknights, スプラトゥーン，Pokémon，A Dance of Fire and Ice, as well as many other games on the steam and switch. Welcome to visit my steam homepage: "https://steamcommunity.com/profiles/76561199354117312/"
 - 🌱 I am currently studying for a bachelor's degree in software engineering. I would love to join this community and contribute to it.
 - ♎ I am working hard to build a personal website, so stay tuned.
 - 📫 You can reach me by email "sosljsos@pm.me".
