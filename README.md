@@ -60,6 +60,14 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 
 <br>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,vim,py,clion,github,git,docker,java,js,idea,linux,md,matlab,nodejs,obsidian,pycharm,pytorch,qt,react,stackoverflow,unreal,unity,vscode,vue,windows" />
+  </a>
+</p>
+
+<br>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C482%20hrs%2015%20mins-blue)
 
