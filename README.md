@@ -1,9 +1,24 @@
-- 👋 Hi, I’m hemingguo. My MBTI is INFJ.
-- 🎨 I am interested in literature(specially Japanese literature), art (painting(especially Japanese comics), classical or modern dance, music(specially ボーカロイド and electronic music)), billiards, and I really want to try archery.
-- 🎮 I don’t have any favorite games. The games I often play include LOL, Shadowverse, CS2, Rimworld, Roguelike, Arknights, スプラトゥーン，Pokémon，A Dance of Fire and Ice, as well as many other games on the steam and switch. Welcome to visit my steam homepage: "https://steamcommunity.com/profiles/76561199354117312/"
-- 🌱 I am currently studying for a bachelor's degree in software engineering. I would love to join this community and contribute to it.
-- ♎ I am working hard to build a personal website, so stay tuned.
-- 📫 You can reach me by email "sosljsos@pm.me".
+- 👋
+Hi, I’m hemingguo. My MBTI is INFJ. "hemingguo"(何明果) is my pen name, derived from "何为焉然，明之世然，果以所何", which is also my motto.
+
+- 🎨
+Literature(specially Japanese novels), particularly like stream of consciousness and the new sensationalism. And my favorite writer is かわばた やすなり.
+Art (painting(especially Japanese comics).
+Classical or Modern Dance, I never miss any of the MAGICAL MIRAI，and every year there are Japanese choreographed dances that amaze me.
+Music(specially ボーカロイド and electronic music)). My favorite ooP artists include the likes of wowaka, ナユタン星人, カンザキイオリ, かいりきベア, and many more.
+Billiards, and I really want to try Archery.
+
+- 🎮
+I don’t have any favorite games. The games I often play include LOL, Shadowverse, CS2, Rimworld, Roguelike, Arknights, スプラトゥーン，Pokémon，A Dance of Fire and Ice, as well as many other games on the steam and switch. Welcome to visit my steam homepage: "https://steamcommunity.com/profiles/76561199354117312/"
+
+- 🌱
+I am currently studying for a bachelor's degree in software engineering. I would love to join this community and contribute to it.
+
+- ♎
+I am working hard to build a personal website, so stay tuned.
+
+- 📫
+Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 
 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemingguo&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)
