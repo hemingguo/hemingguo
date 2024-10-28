@@ -7,10 +7,10 @@ Hi, I’m hemingguo. My MBTI is INFJ. "hemingguo"(何明果) is my pen name, der
 - 🎨
   
 
-Literature(specially Japanese novels), particularly like stream of consciousness and the new sensationalism. And my favorite writer is かわばた やすなり.
-Art (painting(especially Japanese comics).
-Classical or Modern Dance, I never miss any of the MAGICAL MIRAI，and every year there are Japanese choreographed dances that amaze me.
-Music(specially ボーカロイド and electronic music)). My favorite ooP artists include the likes of wowaka, ナユタン星人, カンザキイオリ, かいりきベア, and many more.
+Literature(specially Japanese novels), particularly like stream of consciousness and the new sensationalism. And my favorite writer is かわばた やすなり. <br><br>
+Art (painting(especially Japanese comics). <br><br>
+Classical or Modern Dance, I never miss any of the MAGICAL MIRAI，and every year there are Japanese choreographed dances that amaze me. <br><br>
+Music(specially ボーカロイド and electronic music)). My favorite ooP artists include the likes of wowaka, ナユタン星人, カンザキイオリ, かいりきベア, and many more. <br><br>
 Billiards, and I really want to try Archery.
 
 <br>
