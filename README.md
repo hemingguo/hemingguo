@@ -44,6 +44,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 
 <br>
 
+![](http://antzuhl.cn:4000/get/@hemingguo.readme)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemingguo&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
 
@@ -74,7 +75,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C482%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
 
 <br>
 
@@ -149,6 +150,8 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 **Timeline**
+
+
 
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
