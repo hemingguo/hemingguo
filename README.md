@@ -74,13 +74,15 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C686%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C689%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 463.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 78 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -115,25 +117,19 @@ Sunday                   45 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    25 hrs 29 mins      ███████████████████████░░   93.99 % 
-C++                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-TypeScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-UX                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Other                    21 hrs 16 mins      ████████████████████████░   95.76 % 
+C++                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🔥 Editors: 
-Edge                     25 hrs 31 mins      ████████████████████████░   94.07 % 
-VS Code                  1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Edge                     21 hrs 16 mins      ████████████████████████░   95.76 % 
+VS Code                  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🐱‍💻 Projects: 
-C++                      17 hrs 29 mins      ████████████████░░░░░░░░░   64.45 % 
-kvStorageEngine          4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-000039-ZheGeXuQiuZuoBuLia4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-000039-ZheGeXuQiuZuoBuLia34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+C++                      20 hrs              ███████████████████████░░   90.08 % 
+000039-ZheGeXuQiuZuoBuLia2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
 
 💻 Operating System: 
-Windows                  27 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  22 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -152,7 +148,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 02/12/2024 18:46:25 UTC
+ Last Updated on 03/12/2024 18:44:49 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
