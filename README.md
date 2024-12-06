@@ -74,7 +74,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C696%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C700%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -115,18 +115,20 @@ Sunday                   45 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    19 hrs 57 mins      █████████████████████████   99.91 % 
-C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other                    18 hrs 28 mins      ████████████████████████░   97.54 % 
+C++                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-Edge                     19 hrs 58 mins      █████████████████████████   100.00 % 
+Edge                     18 hrs 29 mins      ████████████████████████░   97.64 % 
+VS Code                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🐱‍💻 Projects: 
-C++                      19 hrs 58 mins      █████████████████████████   99.98 % 
-Skiplist-CPP             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+C++                      16 hrs 55 mins      ██████████████████████░░░   89.36 % 
+Code                     2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Skiplist-CPP             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  19 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -145,7 +147,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2024 18:45:09 UTC
+ Last Updated on 06/12/2024 18:46:53 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
