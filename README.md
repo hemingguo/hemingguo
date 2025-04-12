@@ -74,7 +74,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C297%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C307%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-77-blue)
 
@@ -82,7 +82,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 
 > 📦 478.3 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2025
+> 🏆 5 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,21 +93,21 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-🌆 Daytime                111 commits         ██████████████░░░░░░░░░░░   57.51 % 
-🌃 Evening                56 commits          ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+🌞 Morning                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+🌆 Daytime                112 commits         ██████████████░░░░░░░░░░░   57.73 % 
+🌃 Evening                56 commits          ███████░░░░░░░░░░░░░░░░░░   28.87 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   46 commits          ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-Tuesday                  31 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Wednesday                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Thursday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Friday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Saturday                 13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Sunday                   45 commits          ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+Monday                   46 commits          ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+Tuesday                  31 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Wednesday                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Thursday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Friday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Saturday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Sunday                   45 commits          ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
 ```
 
 
@@ -149,7 +149,12 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
+**Timeline**
 
+![Lines of Code chart](https://raw.githubusercontent.com/hemingguo/hemingguo/main/assets/bar_graph.png)
+
+
+ Last Updated on 12/04/2025 06:39:05 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
