@@ -74,7 +74,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C535%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C543%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -82,7 +82,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 
 > 📦 478.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 7 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -117,23 +117,19 @@ Sunday                   45 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    24 hrs 6 mins       █████████████████████████   99.46 % 
-TeX                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Other                    23 hrs 55 mins      █████████████████████████   99.97 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Edge                     24 hrs 7 mins       █████████████████████████   99.49 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Edge                     23 hrs 56 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dpu_correct              24 hrs 6 mins       █████████████████████████   99.46 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Code                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+dpu_correct              23 hrs 55 mins      █████████████████████████   99.97 % 
 GraphScope               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-MoE_Offloading           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  24 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -148,7 +144,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/06/2025 02:44:40 UTC
+ Last Updated on 29/06/2025 02:59:48 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
