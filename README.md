@@ -74,7 +74,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C630%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C632%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -117,18 +117,18 @@ Sunday                   45 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    16 hrs              █████████████████████████   99.99 % 
+Other                    13 hrs 3 mins       █████████████████████████   99.99 % 
 C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Edge                     16 hrs              █████████████████████████   100.00 % 
+Edge                     13 hrs 3 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-C-Plus-Plus              8 hrs 17 mins       █████████████░░░░░░░░░░░░   51.72 % 
-Code                     7 hrs 43 mins       ████████████░░░░░░░░░░░░░   48.28 % 
+C-Plus-Plus              8 hrs 26 mins       ████████████████░░░░░░░░░   64.60 % 
+Code                     4 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.40 % 
 
 💻 Operating System: 
-Windows                  16 hrs              █████████████████████████   100.00 % 
+Windows                  13 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -143,7 +143,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2025 02:59:43 UTC
+ Last Updated on 26/07/2025 02:53:57 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
