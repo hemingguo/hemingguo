@@ -74,13 +74,13 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C667%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C671%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 478.4 kB Used in GitHub's Storage 
+> 📦 478.3 kB Used in GitHub's Storage 
  > 
 > 🏆 7 Contributions in the Year 2025
  > 
@@ -117,20 +117,16 @@ Sunday                   45 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    22 hrs 14 mins      █████████████████████████   99.88 % 
-C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Other                    22 hrs 4 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Edge                     22 hrs 15 mins      █████████████████████████   100.00 % 
+Edge                     22 hrs 4 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-C-Plus-Plus              22 hrs 14 mins      █████████████████████████   99.88 % 
-CVPR_Template            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-author-kit               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-author-kit-msword        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+C-Plus-Plus              22 hrs 4 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -145,7 +141,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2025 02:48:33 UTC
+ Last Updated on 13/08/2025 02:50:34 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
