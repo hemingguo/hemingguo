@@ -74,15 +74,13 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C686%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C687%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 478.3 kB Used in GitHub's Storage 
- > 
-> 🏆 7 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -117,21 +115,21 @@ Sunday                   45 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    15 hrs 55 mins      █████████████████████████   99.89 % 
+Other                    16 hrs 9 mins       █████████████████████████   99.89 % 
 C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Edge                     15 hrs 56 mins      █████████████████████████   100.00 % 
+Edge                     16 hrs 10 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-C-Plus-Plus              15 hrs 55 mins      █████████████████████████   99.89 % 
+C-Plus-Plus              16 hrs 9 mins       █████████████████████████   99.89 % 
 learning-Journey-AI      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Ai-Learn                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 AI_learning_route        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 AI-Expert-Roadmap        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  15 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -146,7 +144,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2025 02:42:21 UTC
+ Last Updated on 20/08/2025 02:40:48 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
