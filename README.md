@@ -74,13 +74,13 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C732%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C733%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 478.3 kB Used in GitHub's Storage 
+> 📦 478.4 kB Used in GitHub's Storage 
  > 
 > 🏆 7 Contributions in the Year 2025
  > 
@@ -117,20 +117,20 @@ Sunday                   45 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    30 hrs 35 mins      █████████████████████████   99.94 % 
-C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Other                    27 hrs 21 mins      █████████████████████████   99.93 % 
+C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Edge                     30 hrs 36 mins      █████████████████████████   99.96 % 
+Edge                     27 hrs 21 mins      █████████████████████████   99.96 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-C-Plus-Plus              30 hrs 35 mins      █████████████████████████   99.94 % 
+C-Plus-Plus              27 hrs 21 mins      █████████████████████████   99.93 % 
 Code                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-CS-Ebook                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+CS-Ebook                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  30 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -145,7 +145,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2025 02:39:50 UTC
+ Last Updated on 01/09/2025 02:53:25 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
