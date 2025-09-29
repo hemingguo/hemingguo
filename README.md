@@ -74,6 +74,8 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C825%20hrs%2044%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -88,6 +90,46 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+🌆 Daytime                115 commits         ███████████████░░░░░░░░░░   58.38 % 
+🌃 Evening                56 commits          ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   46 commits          ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+Tuesday                  31 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Wednesday                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Thursday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Friday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Saturday                 17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Sunday                   45 commits          ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    21 hrs 37 mins      █████████████████████████   99.96 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+
+🔥 Editors: 
+Edge                     21 hrs 37 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+408-exam-paper           21 hrs 37 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  21 hrs 37 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -100,7 +142,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2025 02:41:03 UTC
+ Last Updated on 29/09/2025 02:26:58 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
