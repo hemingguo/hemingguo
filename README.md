@@ -74,11 +74,13 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C837%20hrs%2014%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 478.4 kB Used in GitHub's Storage 
+> 📦 478.3 kB Used in GitHub's Storage 
  > 
 > 🏆 7 Contributions in the Year 2025
  > 
@@ -88,6 +90,46 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+🌆 Daytime                115 commits         ███████████████░░░░░░░░░░   58.38 % 
+🌃 Evening                56 commits          ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   46 commits          ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+Tuesday                  31 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Wednesday                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Thursday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Friday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Saturday                 17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Sunday                   45 commits          ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    14 hrs 51 mins      █████████████████████████   99.83 % 
+C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+
+🔥 Editors: 
+Edge                     14 hrs 52 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+408-exam-paper           14 hrs 52 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  14 hrs 52 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -100,7 +142,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 02:21:09 UTC
+ Last Updated on 04/10/2025 02:16:43 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
