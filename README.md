@@ -74,7 +74,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C020%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C028%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -117,16 +117,16 @@ Sunday                   45 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    29 hrs 9 mins       █████████████████████████   100.00 % 
+Other                    27 hrs 4 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Edge                     29 hrs 9 mins       █████████████████████████   100.00 % 
+Edge                     27 hrs 4 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Tutoring                 29 hrs 9 mins       █████████████████████████   100.00 % 
+Tutoring                 27 hrs 4 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  29 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  27 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -141,7 +141,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2025 02:45:55 UTC
+ Last Updated on 14/12/2025 02:59:30 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
