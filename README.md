@@ -74,11 +74,13 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C429%20hrs%2030%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 488.8 kB Used in GitHub's Storage 
+> 📦 492.4 kB Used in GitHub's Storage 
  > 
 > 🏆 4 Contributions in the Year 2026
  > 
@@ -86,22 +88,70 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                29 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+🌆 Daytime                117 commits         ██████████████░░░░░░░░░░░   57.92 % 
+🌃 Evening                56 commits          ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+Tuesday                  31 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Wednesday                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Thursday                 28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Friday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Saturday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Sunday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    19 hrs 58 mins      ████████████████████░░░░░   78.13 % 
+Python                   4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+
+🔥 Editors: 
+Edge                     20 hrs 24 mins      ████████████████████░░░░░   79.88 % 
+VS Code                  5 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+
+🐱‍💻 Projects: 
+pumpkin-book             7 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+shushan-dev              5 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+Blueos                   4 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+OmniQuant                1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Bit                      1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+
+💻 Operating System: 
+Windows                  25 hrs 33 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ████████████░░░░░░░░░░░░░   46.67 % 
-C++                      4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python                   9 repos             █████████████░░░░░░░░░░░░   52.94 % 
+C++                      4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
 
 
- Last Updated on 18/05/2026 05:08:20 UTC
+ Last Updated on 19/05/2026 05:05:28 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
