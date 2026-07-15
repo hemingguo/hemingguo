@@ -74,7 +74,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C675%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C676%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -117,19 +117,19 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    17 hrs              █████████████████████████   99.62 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Other                    11 hrs 15 mins      █████████████████████████   99.42 % 
+Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-Edge                     17 hrs 4 mins       █████████████████████████   100.00 % 
+Edge                     11 hrs 19 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nanoGPT                  17 hrs 4 mins       █████████████████████████   99.98 % 
-RMISC                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+nanoGPT                  11 hrs 18 mins      █████████████████████████   99.97 % 
+RMISC                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 EdgeRazor-Huawei         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  17 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -145,7 +145,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2026 04:05:45 UTC
+ Last Updated on 15/07/2026 04:07:46 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
