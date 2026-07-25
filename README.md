@@ -115,20 +115,21 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    9 hrs 13 mins       ████████████████████████░   94.91 % 
-Python                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Other                    10 hrs 40 mins      ███████████████████████░░   93.46 % 
+Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
 
 🔥 Editors: 
-Edge                     9 hrs 43 mins       █████████████████████████   100.00 % 
+Edge                     11 hrs 25 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-EfficientQAT-2           4 hrs 45 mins       ████████████░░░░░░░░░░░░░   48.94 % 
-nanoGPT                  4 hrs 33 mins       ████████████░░░░░░░░░░░░░   46.90 % 
-Blueos                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-EdgeRazor-Huawei         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+EfficientQAT-2           5 hrs 43 mins       █████████████░░░░░░░░░░░░   50.15 % 
+nanoGPT                  2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+EdgeRazor-Huawei         2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+Blueos                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+EdgeRazor                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Windows                  9 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -144,7 +145,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 04:18:40 UTC
+ Last Updated on 25/07/2026 04:14:25 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
