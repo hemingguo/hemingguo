@@ -74,8 +74,6 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C705%20hrs%2012%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -117,21 +115,27 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 43 mins      ███████████████████████░░   93.92 % 
-Python                   45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Other                    15 hrs 11 mins      ████████████████████████░   94.96 % 
+Python                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 
 🔥 Editors: 
-Edge                     12 hrs 29 mins      █████████████████████████   100.00 % 
+Edge                     16 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-EfficientQAT-2           8 hrs 39 mins       █████████████████░░░░░░░░   69.39 % 
-EdgeRazor-Huawei         2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-nanoGPT                  51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Blueos                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-EdgeRazor                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+EfficientQAT-2           11 hrs 56 mins      ███████████████████░░░░░░   74.57 % 
+EdgeRazor-Huawei         2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+fast-hadamard-transform  1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Blueos                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+nanoGPT                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-Windows                  12 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs              █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -147,7 +151,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 04:39:35 UTC
+ Last Updated on 28/07/2026 04:13:44 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
