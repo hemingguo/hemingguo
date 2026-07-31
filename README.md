@@ -119,21 +119,21 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 33 mins      ████████████████████████░   97.22 % 
-Python                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Other                    12 hrs 55 mins      ████████████████████████░   97.64 % 
+Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🔥 Editors: 
-Edge                     14 hrs 58 mins      █████████████████████████   100.00 % 
+Edge                     13 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-EfficientQAT-2           9 hrs 12 mins       ███████████████░░░░░░░░░░   61.49 % 
-fast-hadamard-transform  3 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-EdgeRazor-Huawei         2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-EdgeRazor                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+EfficientQAT-2           7 hrs 10 mins       ██████████████░░░░░░░░░░░   54.20 % 
+fast-hadamard-transform  3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+EdgeRazor-Huawei         2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+EdgeRazor                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 z-libraryopp.github.io   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -155,7 +155,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 04:09:14 UTC
+ Last Updated on 31/07/2026 04:25:19 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
