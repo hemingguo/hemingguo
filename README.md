@@ -119,19 +119,19 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    10 hrs 53 mins      █████████████████████████   99.56 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Other                    9 hrs 33 mins       █████████████████████████   99.50 % 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-Edge                     10 hrs 56 mins      █████████████████████████   100.00 % 
+Edge                     9 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fast-hadamard-transform  6 hrs 2 mins        ██████████████░░░░░░░░░░░   55.28 % 
-EfficientQAT-2           4 hrs 53 mins       ███████████░░░░░░░░░░░░░░   44.71 % 
+fast-hadamard-transform  6 hrs 19 mins       ████████████████░░░░░░░░░   65.93 % 
+EfficientQAT-2           3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.06 % 
 z-libraryopp.github.io   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -153,7 +153,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 04:25:43 UTC
+ Last Updated on 03/08/2026 04:33:23 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
