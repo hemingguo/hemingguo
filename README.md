@@ -82,7 +82,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 
 **🐱 My GitHub Data** 
 
-> 📦 496.7 kB Used in GitHub's Storage 
+> 📦 496.8 kB Used in GitHub's Storage 
  > 
 > 🏆 4 Contributions in the Year 2026
  > 
@@ -90,26 +90,26 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 12 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                29 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-🌆 Daytime                118 commits         ██████████████░░░░░░░░░░░   57.28 % 
-🌃 Evening                59 commits          ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+🌞 Morning                29 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+🌆 Daytime                118 commits         ██████████████░░░░░░░░░░░   57.00 % 
+🌃 Evening                60 commits          ███████░░░░░░░░░░░░░░░░░░   28.99 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
-Tuesday                  33 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Wednesday                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Thursday                 29 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Friday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Saturday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Sunday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+Monday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+Tuesday                  33 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Wednesday                17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Thursday                 29 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Friday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Saturday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Sunday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
 ```
 
 
@@ -119,40 +119,63 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 8 mins        █████████████████████████   100.00 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Other                    11 hrs 53 mins      █████████████████████░░░░   85.73 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+JavaScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+TypeScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-Edge                     7 hrs 8 mins        █████████████████████████   100.00 % 
+Edge                     12 hrs 2 mins       ██████████████████████░░░   86.78 % 
+VS Code                  1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
 
 🐱‍💻 Projects: 
-fast-hadamard-transform  7 hrs 8 mins        █████████████████████████   100.00 % 
-z-libraryopp.github.io   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+fast-hadamard-transform  6 hrs 39 mins       ████████████░░░░░░░░░░░░░   48.06 % 
+yingzhishi               6 hrs 5 mins        ███████████░░░░░░░░░░░░░░   43.89 % 
+we                       28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+splash                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+ru-gu                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 💻 Operating System: 
-Windows                  7 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  13 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 16 mins (9.13%)
+
+✍️ 1,556 lines written by AI, 2,344 lines written by hand (39.9% AI-written)
+
+🔤 2,871,668 Input Tokens, 49,364 Output Tokens
+
+💵 $15.78 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 18 AI Prompts
+
+GPT                      1,556 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 39.9% of written lines came from AI
+📄 Detailed Prompter — average 1,053 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 65.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ███████████████░░░░░░░░░░   61.90 % 
-C++                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   13 repos            ███████████████░░░░░░░░░░   59.09 % 
+C++                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
 
 
- Last Updated on 05/08/2026 04:14:09 UTC
+ Last Updated on 06/08/2026 04:16:10 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
