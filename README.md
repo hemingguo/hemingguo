@@ -74,11 +74,15 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2026%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2035%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 496.8 kB Used in GitHub's Storage 
+> 📦 496.7 kB Used in GitHub's Storage 
  > 
 > 🏆 4 Contributions in the Year 2026
  > 
@@ -115,45 +119,45 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs 40 mins      ██████████████████████░░░   89.39 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Other                    12 hrs 56 mins      ██████████████████████░░░   89.92 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 TypeScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-Edge                     12 hrs 49 mins      ███████████████████████░░   90.42 % 
-VS Code                  1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Edge                     13 hrs 5 mins       ███████████████████████░░   90.98 % 
+VS Code                  1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 
 🐱‍💻 Projects: 
-fast-hadamard-transform  6 hrs 13 mins       ███████████░░░░░░░░░░░░░░   43.91 % 
-yingzhishi               6 hrs 5 mins        ███████████░░░░░░░░░░░░░░   42.91 % 
-splash                   1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-ru-gu                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-efficientqat-qwen3-8b    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+yingzhishi               6 hrs 5 mins        ███████████░░░░░░░░░░░░░░   42.29 % 
+fast-hadamard-transform  4 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   30.62 % 
+splash                   3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+ru-gu                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Awesome-Multimodal-Large-0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  14 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (5.59%)
+⏱ AI Coding Time: 43 mins (5.09%)
 
 ✍️ 1,556 lines written by AI, 2,344 lines written by hand (39.9% AI-written)
 
-🔤 1,888,219 Input Tokens, 40,837 Output Tokens
+🔤 1,820,295 Input Tokens, 39,952 Output Tokens
 
-💵 $10.61 Estimated AI Cost This Week
+💵 $10.24 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 14 AI Prompts
+🧠 3 AI Sessions, 13 AI Prompts
 
 GPT                      1,556 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 39.9% of written lines came from AI
-📄 Detailed Prompter — average 1,347 characters per prompt
+📄 Detailed Prompter — average 1,448 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 65.52% of changed lines were hand-edited
 ```
@@ -171,7 +175,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 03:52:06 UTC
+ Last Updated on 08/08/2026 02:55:48 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
