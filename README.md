@@ -74,7 +74,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2027%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2035%20mins-blue?style=flat)
 
@@ -119,31 +119,31 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs 56 mins      ██████████████████████░░░   89.92 % 
-Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-TypeScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Other                    14 hrs 26 mins      ███████████████████████░░   90.87 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+TypeScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-Edge                     13 hrs 5 mins       ███████████████████████░░   90.98 % 
-VS Code                  1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Edge                     14 hrs 35 mins      ███████████████████████░░   91.83 % 
+VS Code                  1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 
 🐱‍💻 Projects: 
-yingzhishi               6 hrs 5 mins        ███████████░░░░░░░░░░░░░░   42.29 % 
-fast-hadamard-transform  4 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   30.62 % 
-splash                   3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   26.02 % 
-ru-gu                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Awesome-Multimodal-Large-0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+yingzhishi               6 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.31 % 
+splash                   5 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   37.18 % 
+fast-hadamard-transform  3 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+ru-gu                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Awesome-Multimodal-Large-0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  14 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (5.09%)
+⏱ AI Coding Time: 43 mins (4.61%)
 
 ✍️ 1,556 lines written by AI, 2,344 lines written by hand (39.9% AI-written)
 
@@ -175,7 +175,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 02:55:48 UTC
+ Last Updated on 09/08/2026 03:03:33 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
