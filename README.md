@@ -119,31 +119,31 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    16 hrs 12 mins      ███████████████████████░░   91.78 % 
-Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-TypeScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Other                    14 hrs 57 mins      ███████████████████████░░   91.16 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TypeScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-Edge                     16 hrs 21 mins      ███████████████████████░░   92.65 % 
-VS Code                  1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Edge                     15 hrs 6 mins       ███████████████████████░░   92.09 % 
+VS Code                  1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 
 🐱‍💻 Projects: 
-splash                   8 hrs 31 mins       ████████████░░░░░░░░░░░░░   48.24 % 
-yingzhishi               6 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   34.46 % 
-fast-hadamard-transform  2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-ru-gu                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+splash                   9 hrs 38 mins       ███████████████░░░░░░░░░░   58.76 % 
+yingzhishi               6 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   37.10 % 
+fast-hadamard-transform  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+ru-gu                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 Awesome-Multimodal-Large-0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  17 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (4.15%)
+⏱ AI Coding Time: 43 mins (4.46%)
 
 ✍️ 1,556 lines written by AI, 2,344 lines written by hand (39.9% AI-written)
 
@@ -175,7 +175,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 03:05:44 UTC
+ Last Updated on 12/08/2026 03:24:59 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
