@@ -119,47 +119,25 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 57 mins      ███████████████████████░░   91.16 % 
-Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-TypeScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Other                    11 hrs 47 mins      █████████████████████████   99.94 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Edge                     15 hrs 6 mins       ███████████████████████░░   92.09 % 
-VS Code                  1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Edge                     11 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-splash                   9 hrs 38 mins       ███████████████░░░░░░░░░░   58.76 % 
-yingzhishi               6 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   37.10 % 
-fast-hadamard-transform  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-ru-gu                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Awesome-Multimodal-Large-0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+splash                   11 hrs 47 mins      █████████████████████████   99.94 % 
+Awesome-Multimodal-Large-0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+VITA                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  16 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (4.46%)
-
-✍️ 1,556 lines written by AI, 2,344 lines written by hand (39.9% AI-written)
-
-🔤 1,820,295 Input Tokens, 39,952 Output Tokens
-
-💵 $10.24 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 13 AI Prompts
-
-GPT                      1,556 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.9% of written lines came from AI
-📄 Detailed Prompter — average 1,448 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 65.52% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -175,7 +153,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 03:24:59 UTC
+ Last Updated on 13/08/2026 03:28:03 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
