@@ -119,20 +119,20 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs 33 mins      █████████████████████████   99.94 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Other                    14 hrs 41 mins      █████████████████████████   99.90 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Edge                     12 hrs 33 mins      █████████████████████████   100.00 % 
+Edge                     14 hrs 41 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-splash                   12 hrs 33 mins      █████████████████████████   99.94 % 
-Awesome-Multimodal-Large-0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-VITA                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-EfficientQAT-2           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+splash                   13 hrs 38 mins      ███████████████████████░░   92.77 % 
+Street-fighter-A3C-ICM-py1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+street-fighter-ai        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+EfficientQAT-2           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -154,7 +154,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 03:25:36 UTC
+ Last Updated on 15/08/2026 02:14:42 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
