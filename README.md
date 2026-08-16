@@ -74,7 +74,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2028%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2035%20mins-blue?style=flat)
 
@@ -119,20 +119,20 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 41 mins      █████████████████████████   99.90 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other                    14 hrs 37 mins      █████████████████████████   99.88 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-Edge                     14 hrs 41 mins      █████████████████████████   100.00 % 
+Edge                     14 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-splash                   13 hrs 38 mins      ███████████████████████░░   92.77 % 
-Street-fighter-A3C-ICM-py1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+splash                   11 hrs 28 mins      ████████████████████░░░░░   78.37 % 
+Street-fighter-A3C-ICM-py3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
 street-fighter-ai        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-EfficientQAT-2           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+EfficientQAT-2           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  14 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -154,7 +154,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 02:14:42 UTC
+ Last Updated on 16/08/2026 02:22:14 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
