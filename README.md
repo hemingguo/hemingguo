@@ -82,7 +82,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 
 **🐱 My GitHub Data** 
 
-> 📦 496.7 kB Used in GitHub's Storage 
+> 📦 496.8 kB Used in GitHub's Storage 
  > 
 > 🏆 4 Contributions in the Year 2026
  > 
@@ -119,21 +119,21 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    17 hrs 7 mins       █████████████████████████   99.86 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Other                    20 hrs 30 mins      █████████████████████████   99.88 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-Edge                     17 hrs 9 mins       █████████████████████████   100.00 % 
+Edge                     20 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-splash                   9 hrs 51 mins       ██████████████░░░░░░░░░░░   57.44 % 
-Street-fighter-A3C-ICM-py4 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-EfficientQAT-2           2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-street-fighter-ai        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+splash                   8 hrs 51 mins       ███████████░░░░░░░░░░░░░░   43.15 % 
+EfficientQAT-2           7 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   34.86 % 
+Street-fighter-A3C-ICM-py4 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+street-fighter-ai        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 LMS-enhancement          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  17 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  20 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -155,7 +155,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 02:20:47 UTC
+ Last Updated on 18/08/2026 02:16:52 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
