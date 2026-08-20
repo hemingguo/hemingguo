@@ -119,27 +119,47 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    22 hrs 35 mins      █████████████████████████   99.89 % 
+Other                    22 hrs 29 mins      ████████████████████████░   97.54 % 
+Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Edge                     22 hrs 37 mins      █████████████████████████   100.00 % 
+Edge                     22 hrs 30 mins      ████████████████████████░   97.65 % 
+Codex Vscode             32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🐱‍💻 Projects: 
-EfficientQAT-2           10 hrs 21 mins      ███████████░░░░░░░░░░░░░░   45.82 % 
-splash                   7 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   34.22 % 
-Street-fighter-A3C-ICM-py4 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+EfficientQAT-2           12 hrs 51 mins      ██████████████░░░░░░░░░░░   55.73 % 
+splash                   5 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+Street-fighter-A3C-ICM-py4 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+efficientqat-qwen3-8b    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 street-fighter-ai        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-LMS-enhancement          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  22 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 32 mins (2.35%)
+
+✍️ 301 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 431,767 Input Tokens, 28,365 Output Tokens
+
+💵 $5.26 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 20 AI Prompts
+
+GPT                      301 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 457 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -155,7 +175,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 02:19:42 UTC
+ Last Updated on 20/08/2026 02:18:07 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
