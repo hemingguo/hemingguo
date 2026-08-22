@@ -74,9 +74,9 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -119,32 +119,32 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    21 hrs 25 mins      ██████████████████████░░░   89.64 % 
-Markdown                 1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Other                    19 hrs 41 mins      ██████████████████████░░░   88.57 % 
+Markdown                 1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Edge                     21 hrs 27 mins      ██████████████████████░░░   89.79 % 
-Codex Vscode             2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Edge                     19 hrs 42 mins      ██████████████████████░░░   88.66 % 
+Codex Vscode             2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🐱‍💻 Projects: 
-EfficientQAT-2           14 hrs 16 mins      ███████████████░░░░░░░░░░   59.69 % 
-Street-fighter-A3C-ICM-py4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-splash                   3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-efficientqat-qwen3-8b    2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Qwen3-8B                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+EfficientQAT-2           15 hrs 33 mins      █████████████████░░░░░░░░   69.98 % 
+Street-fighter-A3C-ICM-py2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+efficientqat-qwen3-8b    2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+eval_outputs             1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Qwen3-8B                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
-Windows                  23 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 26 mins (10.21%)
+⏱ AI Coding Time: 2 hrs 26 mins (10.98%)
 
 ✍️ 945 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -176,7 +176,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 02:24:21 UTC
+ Last Updated on 22/08/2026 02:17:11 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
