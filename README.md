@@ -74,7 +74,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2016%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2017%20mins-blue?style=flat)
 
@@ -119,47 +119,47 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    19 hrs 41 mins      ██████████████████████░░░   88.57 % 
-Markdown                 1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Other                    19 hrs 31 mins      ███████████████████████░░   90.10 % 
+Markdown                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Edge                     19 hrs 42 mins      ██████████████████████░░░   88.66 % 
-Codex Vscode             2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Edge                     19 hrs 32 mins      ███████████████████████░░   90.19 % 
+Codex Vscode             1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🐱‍💻 Projects: 
-EfficientQAT-2           15 hrs 33 mins      █████████████████░░░░░░░░   69.98 % 
-Street-fighter-A3C-ICM-py2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-efficientqat-qwen3-8b    2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-eval_outputs             1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Qwen3-8B                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+EfficientQAT-2           15 hrs 33 mins      ██████████████████░░░░░░░   71.79 % 
+eval_outputs             2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+efficientqat-qwen3-8b    1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Street-fighter-A3C-ICM-py1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Qwen3-8B                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-Windows                  22 hrs 13 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 26 mins (10.98%)
+⏱ AI Coding Time: 2 hrs 2 mins (9.44%)
 
-✍️ 945 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 644 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,423,922 Input Tokens, 135,096 Output Tokens
+🔤 1,940,592 Input Tokens, 109,470 Output Tokens
 
-💵 $24.40 Estimated AI Cost This Week
+💵 $19.14 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 81 AI Prompts
+🧠 5 AI Sessions, 67 AI Prompts
 
-GPT                      945 lines           █████████████████████████   100.00 % 
+GPT                      644 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,017 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+📄 Detailed Prompter — average 544 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -176,7 +176,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 02:17:11 UTC
+ Last Updated on 23/08/2026 02:24:34 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
