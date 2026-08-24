@@ -119,47 +119,47 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    19 hrs 31 mins      ███████████████████████░░   90.10 % 
-Markdown                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Other                    18 hrs 48 mins      ███████████████████████░░   90.46 % 
+Markdown                 1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Edge                     19 hrs 32 mins      ███████████████████████░░   90.19 % 
-Codex Vscode             1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Edge                     18 hrs 50 mins      ███████████████████████░░   90.57 % 
+Codex Vscode             1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🐱‍💻 Projects: 
-EfficientQAT-2           15 hrs 33 mins      ██████████████████░░░░░░░   71.79 % 
-eval_outputs             2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-efficientqat-qwen3-8b    1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Street-fighter-A3C-ICM-py1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Qwen3-8B                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+EfficientQAT-2           12 hrs 55 mins      ████████████████░░░░░░░░░   62.17 % 
+eval_outputs             4 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+w2a8kv16_qwen3_8b_eval_ql1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+efficientqat-qwen3-8b    1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Qwen3-8B                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Windows                  21 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 2 mins (9.44%)
+⏱ AI Coding Time: 1 hr 48 mins (8.69%)
 
 ✍️ 644 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,940,592 Input Tokens, 109,470 Output Tokens
+🔤 1,416,186 Input Tokens, 88,396 Output Tokens
 
-💵 $19.14 Estimated AI Cost This Week
+💵 $15.46 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 67 AI Prompts
+🧠 4 AI Sessions, 57 AI Prompts
 
 GPT                      644 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 544 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
+📄 Detailed Prompter — average 528 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -176,7 +176,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 02:24:34 UTC
+ Last Updated on 24/08/2026 02:24:12 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
