@@ -119,22 +119,22 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    21 hrs 5 mins       █████████████████████████   99.48 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Other                    21 hrs 54 mins      █████████████████████████   99.42 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-Edge                     21 hrs 7 mins       █████████████████████████   99.65 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Edge                     21 hrs 57 mins      █████████████████████████   99.67 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🐱‍💻 Projects: 
-w2a8kv16_qwen3_8b_eval_ql16 hrs 34 mins      ████████████████████░░░░░   78.15 % 
-eval_outputs             2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-EfficientQAT-2           1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-w4a4kv16_qwen3_8b_eval_ql2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-EfficientQAT-Huawei-Pangu0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+w2a8kv16_qwen3_8b_eval_ql16 hrs 34 mins      ███████████████████░░░░░░   75.20 % 
+EfficientQAT-2           4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+eval_outputs             1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+w4a4kv16_qwen3_8b_eval_ql2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+LMS-enhancement          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Windows                  21 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -156,7 +156,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 07:44:42 UTC
+ Last Updated on 30/08/2026 06:21:47 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
