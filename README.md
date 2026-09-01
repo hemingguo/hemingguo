@@ -119,21 +119,21 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    20 hrs 52 mins      █████████████████████████   99.79 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Other                    19 hrs 44 mins      █████████████████████████   99.78 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-Edge                     20 hrs 55 mins      █████████████████████████   100.00 % 
+Edge                     19 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-w2a8kv16_qwen3_8b_eval_ql14 hrs 41 mins      ██████████████████░░░░░░░   70.27 % 
-EfficientQAT-2           6 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+w2a8kv16_qwen3_8b_eval_ql12 hrs 3 mins       ███████████████░░░░░░░░░░   60.91 % 
+EfficientQAT-2           7 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   38.91 % 
 LMS-enhancement          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-EfficientQAT-Huawei-Pangu0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+EfficientQAT-Huawei-Pangu0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 LAMDA-SSL                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  20 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -155,7 +155,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 06:49:36 UTC
+ Last Updated on 01/09/2026 06:08:18 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
