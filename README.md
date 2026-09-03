@@ -74,7 +74,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2031%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2017%20mins-blue?style=flat)
 
@@ -84,7 +84,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 
 > 📦 496.8 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2026
+> 🏆 5 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,21 +95,21 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                29 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-🌆 Daytime                118 commits         ██████████████░░░░░░░░░░░   57.00 % 
-🌃 Evening                60 commits          ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+🌞 Morning                29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+🌆 Daytime                118 commits         ██████████████░░░░░░░░░░░   56.73 % 
+🌃 Evening                61 commits          ███████░░░░░░░░░░░░░░░░░░   29.33 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-Tuesday                  33 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Wednesday                17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Thursday                 29 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Friday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Saturday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-Sunday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+Monday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+Tuesday                  33 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Wednesday                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Thursday                 29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Friday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Saturday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Sunday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
 ```
 
 
@@ -119,21 +119,23 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    21 hrs 30 mins      █████████████████████████   99.23 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Other                    25 hrs 39 mins      █████████████████████████   99.18 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Edge                     21 hrs 40 mins      █████████████████████████   100.00 % 
+Edge                     25 hrs 51 mins      █████████████████████████   99.97 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-w2a8kv16_qwen3_8b_eval_ql9 hrs 8 mins        ███████████░░░░░░░░░░░░░░   42.21 % 
-EfficientQAT-2           8 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.99 % 
-EdgeRazor-Huawei         4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-turboquant               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-LMS-enhancement          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+EdgeRazor-Huawei         9 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   35.86 % 
+EfficientQAT-2           8 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   31.00 % 
+w2a8kv16_qwen3_8b_eval_ql5 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+hemingguo.github.io      2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+turboquant               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Windows                  21 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -155,7 +157,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026 05:33:55 UTC
+ Last Updated on 03/09/2026 05:34:12 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
