@@ -119,29 +119,48 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    27 hrs 6 mins       █████████████████████████   99.31 % 
+Other                    26 hrs 17 mins      ████████████████████████░   96.67 % 
+Python                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Edge                     27 hrs 17 mins      █████████████████████████   99.97 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Edge                     26 hrs 32 mins      ████████████████████████░   97.61 % 
+VS Code                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-EdgeRazor-Huawei         9 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.97 % 
-hemingguo.github.io      8 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   30.78 % 
-EfficientQAT-2           8 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.37 % 
-w2a8kv16_qwen3_8b_eval_ql1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-turboquant               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+EdgeRazor-Huawei         9 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.11 % 
+hemingguo.github.io      8 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.78 % 
+EfficientQAT-2           6 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+turboquant               2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+LMS-enhancement          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Windows                  27 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 min (0.1%)
+
+✍️ 0 lines written by AI, 15 lines written by hand (0.0% AI-written)
+
+🔤 7,379 Input Tokens, 665 Output Tokens
+
+💵 $0.06 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 12 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -157,7 +176,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 05:40:09 UTC
+ Last Updated on 05/09/2026 05:25:44 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
