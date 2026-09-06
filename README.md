@@ -74,9 +74,9 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -119,32 +119,32 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    26 hrs 17 mins      ████████████████████████░   96.67 % 
-Python                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Other                    25 hrs 20 mins      ████████████████████████░   96.27 % 
+Python                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Edge                     26 hrs 32 mins      ████████████████████████░   97.61 % 
-VS Code                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Edge                     25 hrs 35 mins      ████████████████████████░   97.17 % 
+VS Code                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Codex Vscode             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🐱‍💻 Projects: 
-EdgeRazor-Huawei         9 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.11 % 
-hemingguo.github.io      8 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.78 % 
-EfficientQAT-2           6 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-turboquant               2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-LMS-enhancement          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+EdgeRazor-Huawei         9 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   35.23 % 
+hemingguo.github.io      8 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.83 % 
+turboquant               4 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+EfficientQAT-2           3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+SF6Mods                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  27 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (0.1%)
+⏱ AI Coding Time: 7 mins (0.45%)
 
 ✍️ 0 lines written by AI, 15 lines written by hand (0.0% AI-written)
 
@@ -152,14 +152,14 @@ Windows                  27 hrs 11 mins      ███████████�
 
 💵 $0.06 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 12 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📄 Detailed Prompter — average 918 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -176,7 +176,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 05:25:44 UTC
+ Last Updated on 06/09/2026 05:41:36 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
