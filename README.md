@@ -119,31 +119,31 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    25 hrs 45 mins      ██████████████████████░░░   86.92 % 
-Python                   3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Other                    24 hrs 15 mins      ██████████████████████░░░   86.04 % 
+Python                   3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-Edge                     23 hrs 53 mins      ████████████████████░░░░░   80.62 % 
-Codex Vscode             5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-VS Code                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Edge                     22 hrs 27 mins      ████████████████████░░░░░   79.63 % 
+Codex Vscode             5 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+VS Code                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 🐱‍💻 Projects: 
-turboquant               20 hrs 44 mins      ██████████████████░░░░░░░   70.01 % 
-hemingguo.github.io      6 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-yu                       1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-EfficientQAT-2           46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-vla                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+turboquant               25 hrs 9 mins       ██████████████████████░░░   89.21 % 
+yu                       1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+EfficientQAT-2           46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+vla                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+hemingguo.github.io      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-Windows                  29 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 16 mins (17.81%)
+⏱ AI Coding Time: 5 hrs 16 mins (18.71%)
 
 ✍️ 743 lines written by AI, 15 lines written by hand (98.02% AI-written)
 
@@ -175,7 +175,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 05:43:54 UTC
+ Last Updated on 11/09/2026 05:43:21 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
