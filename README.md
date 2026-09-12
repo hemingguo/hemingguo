@@ -74,7 +74,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%202%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2023%20mins-blue?style=flat)
 
@@ -119,47 +119,46 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    24 hrs 15 mins      ██████████████████████░░░   86.04 % 
-Python                   3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Other                    24 hrs 28 mins      ██████████████████████░░░   89.87 % 
+Python                   2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-Edge                     22 hrs 27 mins      ████████████████████░░░░░   79.63 % 
-Codex Vscode             5 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-VS Code                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Edge                     22 hrs 35 mins      █████████████████████░░░░   82.96 % 
+Codex Vscode             4 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🐱‍💻 Projects: 
-turboquant               25 hrs 9 mins       ██████████████████████░░░   89.21 % 
-yu                       1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-EfficientQAT-2           46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-vla                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-hemingguo.github.io      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+turboquant               24 hrs 26 mins      ██████████████████████░░░   89.71 % 
+yu                       1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+EfficientQAT-2           46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+vla                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+r                        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Windows                  28 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 16 mins (18.71%)
+⏱ AI Coding Time: 4 hrs 34 mins (16.78%)
 
-✍️ 743 lines written by AI, 15 lines written by hand (98.02% AI-written)
+✍️ 743 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,226,032 Input Tokens, 177,506 Output Tokens
+🔤 1,088,569 Input Tokens, 154,505 Output Tokens
 
-💵 $27.18 Estimated AI Cost This Week
+💵 $24.97 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 108 AI Prompts
+🧠 10 AI Sessions, 93 AI Prompts
 
 GPT                      758 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.02% of written lines came from AI
-📚 Verbose Prompter — average 1,777 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 1.94% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,968 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -175,7 +174,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 05:43:21 UTC
+ Last Updated on 12/09/2026 05:30:02 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
