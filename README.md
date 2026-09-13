@@ -119,30 +119,30 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    24 hrs 28 mins      ██████████████████████░░░   89.87 % 
-Python                   2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Other                    24 hrs 17 mins      ███████████████████████░░   90.04 % 
+Python                   2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 🔥 Editors: 
-Edge                     22 hrs 35 mins      █████████████████████░░░░   82.96 % 
-Codex Vscode             4 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Edge                     22 hrs 25 mins      █████████████████████░░░░   83.15 % 
+Codex Vscode             4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🐱‍💻 Projects: 
-turboquant               24 hrs 26 mins      ██████████████████████░░░   89.71 % 
-yu                       1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-EfficientQAT-2           46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+turboquant               24 hrs 10 mins      ██████████████████████░░░   89.61 % 
+yu                       1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+EfficientQAT-2           46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 vla                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 r                        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Windows                  27 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 34 mins (16.78%)
+⏱ AI Coding Time: 4 hrs 28 mins (16.6%)
 
 ✍️ 743 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -150,14 +150,14 @@ Windows                  27 hrs 14 mins      ███████████�
 
 💵 $24.97 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 93 AI Prompts
+🧠 9 AI Sessions, 91 AI Prompts
 
 GPT                      758 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,968 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📚 Verbose Prompter — average 1,981 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -174,7 +174,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 05:30:02 UTC
+ Last Updated on 13/09/2026 05:47:48 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
