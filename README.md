@@ -74,7 +74,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%203%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2023%20mins-blue?style=flat)
 
@@ -119,45 +119,45 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    24 hrs 17 mins      ███████████████████████░░   90.04 % 
-Python                   2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Other                    20 hrs 48 mins      ████████████████████████░   94.75 % 
+Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 Editors: 
-Edge                     22 hrs 25 mins      █████████████████████░░░░   83.15 % 
-Codex Vscode             4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Edge                     20 hrs 35 mins      ███████████████████████░░   93.80 % 
+Codex Vscode             1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-turboquant               24 hrs 10 mins      ██████████████████████░░░   89.61 % 
-yu                       1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-EfficientQAT-2           46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-vla                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-r                        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+turboquant               20 hrs 48 mins      ████████████████████████░   94.76 % 
+EfficientQAT-2           46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+vla                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+yu                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+DeepSeek-V4              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  26 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 28 mins (16.6%)
+⏱ AI Coding Time: 1 hr 21 mins (6.2%)
 
 ✍️ 743 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,088,569 Input Tokens, 154,505 Output Tokens
+🔤 515,477 Input Tokens, 66,238 Output Tokens
 
-💵 $24.97 Estimated AI Cost This Week
+💵 $14.86 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 91 AI Prompts
+🧠 5 AI Sessions, 30 AI Prompts
 
 GPT                      758 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,981 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📚 Verbose Prompter — average 4,967 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -174,7 +174,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 05:47:48 UTC
+ Last Updated on 14/09/2026 05:57:05 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
