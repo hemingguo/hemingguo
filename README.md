@@ -119,46 +119,44 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    20 hrs 48 mins      ████████████████████████░   94.75 % 
-Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Other                    23 hrs 4 mins       █████████████████████████   99.46 % 
+Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-Edge                     20 hrs 35 mins      ███████████████████████░░   93.80 % 
-Codex Vscode             1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Edge                     23 hrs 9 mins       █████████████████████████   99.84 % 
+Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 Projects: 
-turboquant               20 hrs 48 mins      ████████████████████████░   94.76 % 
-EfficientQAT-2           46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-vla                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-yu                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+turboquant               20 hrs 53 mins      ███████████████████████░░   90.06 % 
+NJU_Aqxx_Test_v2         2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+yu                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 DeepSeek-V4              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+deepseek-harness         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  21 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 21 mins (6.2%)
+⏱ AI Coding Time: 2 mins (0.16%)
 
-✍️ 743 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 515,477 Input Tokens, 66,238 Output Tokens
+🔤 7,028 Input Tokens, 1,816 Output Tokens
 
-💵 $14.86 Estimated AI Cost This Week
+💵 $0.22 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 30 AI Prompts
+🧠 1 AI Sessions, 4 AI Prompts
 
-GPT                      758 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,967 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 1,448 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -174,7 +172,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 05:57:05 UTC
+ Last Updated on 15/09/2026 05:58:18 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
