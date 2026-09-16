@@ -74,7 +74,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%206%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2023%20mins-blue?style=flat)
 
@@ -119,44 +119,27 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    23 hrs 4 mins       █████████████████████████   99.46 % 
-Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Other                    25 hrs 2 mins       █████████████████████████   99.49 % 
+Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-Edge                     23 hrs 9 mins       █████████████████████████   99.84 % 
-Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Edge                     25 hrs 10 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-turboquant               20 hrs 53 mins      ███████████████████████░░   90.06 % 
-NJU_Aqxx_Test_v2         2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-yu                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-DeepSeek-V4              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+turboquant               16 hrs 19 mins      ████████████████░░░░░░░░░   64.85 % 
+NJU_Aqxx_Test_v2         8 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.09 % 
+DeepSeek-V4              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 deepseek-harness         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+EdgeRazor-Huawei         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  23 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (0.16%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 7,028 Input Tokens, 1,816 Output Tokens
-
-💵 $0.22 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 4 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 1,448 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -172,7 +155,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 05:58:18 UTC
+ Last Updated on 16/09/2026 05:47:46 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
