@@ -119,21 +119,21 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    25 hrs 2 mins       █████████████████████████   99.49 % 
-Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Other                    28 hrs 21 mins      █████████████████████████   99.55 % 
+Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-Edge                     25 hrs 10 mins      █████████████████████████   100.00 % 
+Edge                     28 hrs 29 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-turboquant               16 hrs 19 mins      ████████████████░░░░░░░░░   64.85 % 
-NJU_Aqxx_Test_v2         8 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.09 % 
+NJU_Aqxx_Test_v2         14 hrs 52 mins      █████████████░░░░░░░░░░░░   52.22 % 
+turboquant               13 hrs 35 mins      ████████████░░░░░░░░░░░░░   47.72 % 
 DeepSeek-V4              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 deepseek-harness         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 EdgeRazor-Huawei         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  25 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -155,7 +155,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 05:47:46 UTC
+ Last Updated on 17/09/2026 05:54:31 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
