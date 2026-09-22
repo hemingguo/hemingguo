@@ -74,7 +74,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2052%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2023%20mins-blue?style=flat)
 
@@ -119,21 +119,21 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    35 hrs 15 mins      ████████████████████████░   97.76 % 
-Python                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Other                    35 hrs 40 mins      ████████████████████████░   97.89 % 
+Python                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🔥 Editors: 
-Edge                     36 hrs 3 mins       █████████████████████████   100.00 % 
+Edge                     36 hrs 26 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-NJU_Aqxx_Test_v2         31 hrs 57 mins      ██████████████████████░░░   88.63 % 
-turboquant               3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-LIBERO                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-openpi                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+NJU_Aqxx_Test_v2         35 hrs 41 mins      ████████████████████████░   97.95 % 
+LIBERO                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+openpi                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 LMS-enhancement          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+openvla                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 Operating System: 
-Windows                  36 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  36 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -155,7 +155,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 06:00:55 UTC
+ Last Updated on 22/09/2026 05:57:23 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
