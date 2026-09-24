@@ -74,11 +74,11 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2059%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -119,21 +119,21 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    34 hrs 39 mins      ████████████████████████░   97.51 % 
-Python                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Other                    34 hrs 16 mins      ████████████████████████░   97.48 % 
+Python                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔥 Editors: 
-Edge                     35 hrs 32 mins      █████████████████████████   100.00 % 
+Edge                     35 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-NJU_Aqxx_Test_v2         31 hrs 4 mins       ██████████████████████░░░   87.43 % 
-Google-Play-Store        3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-LIBERO                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-openpi                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-LMS-enhancement          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+NJU_Aqxx_Test_v2         25 hrs 1 min        ██████████████████░░░░░░░   71.19 % 
+Google-Play-Store        9 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+LIBERO                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+openpi                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+LMS-enhancement          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Windows                  35 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  35 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -155,7 +155,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 05:40:50 UTC
+ Last Updated on 24/09/2026 05:57:40 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
