@@ -74,7 +74,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%2042%20mins-blue?style=flat)
 
@@ -119,49 +119,49 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    27 hrs 47 mins      ████████████████████░░░░░   79.75 % 
-Python                   5 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Bash                     41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Other                    25 hrs 8 mins       ████████████████████░░░░░   80.29 % 
+Python                   5 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-Edge                     26 hrs 32 mins      ███████████████████░░░░░░   76.17 % 
-Codex Vscode             6 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-VS Code                  1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Edge                     24 hrs 10 mins      ███████████████████░░░░░░   77.24 % 
+Codex Vscode             5 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+VS Code                  1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 🐱‍💻 Projects: 
-logs                     11 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   33.09 % 
-Google-Play-Store        6 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-VLA_KV                   4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-mygpt                    3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-PiliPlus                 2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+logs                     13 hrs 45 mins      ███████████░░░░░░░░░░░░░░   43.96 % 
+VLA_KV                   4 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+mygpt                    3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+PiliPlus                 2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Google-Play-Store        1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 
 💻 Operating System: 
-Windows                  34 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  31 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 20 mins (21.06%)
+⏱ AI Coding Time: 6 hrs 9 mins (19.68%)
 
-✍️ 11,639 lines written by AI, 95 lines written by hand (99.19% AI-written)
+✍️ 10,919 lines written by AI, 95 lines written by hand (99.14% AI-written)
 
-🔤 5,585,830 Input Tokens, 562,497 Output Tokens
+🔤 4,025,210 Input Tokens, 462,343 Output Tokens
 
-💵 $65.71 Estimated AI Cost This Week
+💵 $48.17 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 157 AI Prompts
+🧠 25 AI Sessions, 121 AI Prompts
 
-GPT                      11,395 lines        ████████████████████████░   97.38 % 
-Codex-Vscode             307 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+GPT                      10,625 lines        ████████████████████████░   97.19 % 
+Codex-Vscode             307 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.19% of written lines came from AI
-📚 Verbose Prompter — average 2,921 characters per prompt
+🤖 AI-Driven — 99.14% of written lines came from AI
+📚 Verbose Prompter — average 3,059 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.92% of changed lines were hand-edited
+🚀 High AI Trust — 0.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -177,7 +177,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 07:01:10 UTC
+ Last Updated on 02/10/2026 06:50:03 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
