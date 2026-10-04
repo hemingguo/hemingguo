@@ -119,49 +119,46 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    23 hrs 52 mins      ████████████████████░░░░░   80.41 % 
-Python                   4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Other                    21 hrs 39 mins      ██████████████████████░░░   86.43 % 
+Python                   2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Markdown                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 Editors: 
-Edge                     23 hrs 12 mins      ████████████████████░░░░░   78.19 % 
-Codex Vscode             4 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-VS Code                  1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Edge                     21 hrs 8 mins       █████████████████████░░░░   84.37 % 
+Codex Vscode             3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+VS Code                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🐱‍💻 Projects: 
-logs                     15 hrs 30 mins      █████████████░░░░░░░░░░░░   52.25 % 
-VLA_KV                   4 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-mygpt                    3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-PiliPlus                 2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-learn                    1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+logs                     16 hrs 12 mins      ████████████████░░░░░░░░░   64.70 % 
+VLA_KV                   4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+PiliPlus                 2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+learn                    1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+PyTorch-Tutorial-2nd     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-Windows                  29 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 30 mins (18.56%)
+⏱ AI Coding Time: 3 hrs 37 mins (14.46%)
 
-✍️ 10,919 lines written by AI, 95 lines written by hand (99.14% AI-written)
+✍️ 5,437 lines written by AI, 28 lines written by hand (99.49% AI-written)
 
-🔤 3,524,932 Input Tokens, 444,444 Output Tokens
+🔤 4,719,650 Input Tokens, 616,759 Output Tokens
 
-💵 $44.57 Estimated AI Cost This Week
+💵 $106.93 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 108 AI Prompts
+🧠 14 AI Sessions, 69 AI Prompts
 
-GPT                      10,625 lines        ████████████████████████░   97.19 % 
-Codex-Vscode             307 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+GPT                      5,439 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.14% of written lines came from AI
-📚 Verbose Prompter — average 3,350 characters per prompt
+🤖 AI-Driven — 99.49% of written lines came from AI
+📄 Detailed Prompter — average 1,055 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.99% of changed lines were hand-edited
+🚀 High AI Trust — 0.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -177,7 +174,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 06:13:52 UTC
+ Last Updated on 04/10/2026 06:41:22 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
