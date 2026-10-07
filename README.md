@@ -119,45 +119,27 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    23 hrs 48 mins      █████████████████████████   98.15 % 
-Python                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Other                    22 hrs 21 mins      █████████████████████████   99.77 % 
+Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-Edge                     23 hrs 42 mins      ████████████████████████░   97.72 % 
-Codex Vscode             28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Edge                     22 hrs 24 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-logs                     23 hrs 15 mins      ████████████████████████░   95.82 % 
-VLA_KV                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-FlatQuant                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-SpinQuant                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-qBittorrent              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+logs                     22 hrs 21 mins      █████████████████████████   99.77 % 
+qBittorrent              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+gopeed                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+transmission             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  24 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (2.04%)
-
-✍️ 1,039 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 385,911 Input Tokens, 35,373 Output Tokens
-
-💵 $3.76 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 6 AI Prompts
-
-GPT                      1,039 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,540 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -173,7 +155,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 07:22:11 UTC
+ Last Updated on 07/10/2026 07:01:11 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
