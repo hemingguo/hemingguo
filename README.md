@@ -119,21 +119,22 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    22 hrs 21 mins      █████████████████████████   99.77 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Other                    18 hrs 21 mins      █████████████████████████   99.07 % 
+Python                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Edge                     22 hrs 24 mins      █████████████████████████   100.00 % 
+Edge                     18 hrs 24 mins      █████████████████████████   99.39 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🐱‍💻 Projects: 
-logs                     22 hrs 21 mins      █████████████████████████   99.77 % 
-qBittorrent              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-gopeed                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-transmission             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+logs                     15 hrs 54 mins      █████████████████████░░░░   85.89 % 
+hw1                      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+WSL                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 
 💻 Operating System: 
-Windows                  22 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -155,7 +156,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 07:01:11 UTC
+ Last Updated on 08/10/2026 07:09:16 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
