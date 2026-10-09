@@ -74,7 +74,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%2042%20mins-blue?style=flat)
 
@@ -119,22 +119,23 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    18 hrs 21 mins      █████████████████████████   99.07 % 
-Python                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Other                    17 hrs 24 mins      █████████████████████████   99.02 % 
+Python                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Edge                     18 hrs 24 mins      █████████████████████████   99.39 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Edge                     17 hrs 28 mins      █████████████████████████   99.35 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🐱‍💻 Projects: 
-logs                     15 hrs 54 mins      █████████████████████░░░░   85.89 % 
-hw1                      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-WSL                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+logs                     13 hrs 41 mins      ███████████████████░░░░░░   77.84 % 
+hw1                      2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+WSL                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+EdgeRazor-Huawei         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  18 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -156,7 +157,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 07:09:16 UTC
+ Last Updated on 09/10/2026 07:14:30 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
