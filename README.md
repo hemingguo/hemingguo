@@ -119,23 +119,23 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    17 hrs 24 mins      █████████████████████████   99.02 % 
-Python                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Other                    19 hrs 39 mins      █████████████████████████   99.13 % 
+Python                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Edge                     17 hrs 28 mins      █████████████████████████   99.35 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Edge                     19 hrs 42 mins      █████████████████████████   99.43 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🐱‍💻 Projects: 
-logs                     13 hrs 41 mins      ███████████████████░░░░░░   77.84 % 
-hw1                      2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-WSL                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-EdgeRazor-Huawei         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+logs                     11 hrs 55 mins      ███████████████░░░░░░░░░░   60.18 % 
+EdgeRazor-Huawei         3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+hw1                      3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+WSL                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 
 💻 Operating System: 
-Windows                  17 hrs 34 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -157,7 +157,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 07:14:30 UTC
+ Last Updated on 10/10/2026 06:50:29 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
