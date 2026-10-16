@@ -119,21 +119,21 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    15 hrs 23 mins      ████████████████████████░   97.84 % 
-Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Other                    18 hrs 40 mins      ████████████████████████░   97.43 % 
+Python                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🔥 Editors: 
-Edge                     15 hrs 43 mins      █████████████████████████   100.00 % 
+Edge                     19 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-EdgeRazor-Huawei         5 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.49 % 
-openvla                  5 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.17 % 
-XXMI-Launcher            3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-hw1                      1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-LIBERO                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+openvla                  9 hrs 24 mins       ████████████░░░░░░░░░░░░░   49.07 % 
+EdgeRazor-Huawei         5 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   29.12 % 
+XXMI-Launcher            3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Endaxis                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+hw1                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 💻 Operating System: 
-Windows                  15 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -155,7 +155,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 05:41:55 UTC
+ Last Updated on 16/10/2026 05:37:46 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
