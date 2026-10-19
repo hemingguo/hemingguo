@@ -119,20 +119,21 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    18 hrs 50 mins      ████████████████████████░   97.59 % 
-Python                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Other                    21 hrs 59 mins      ████████████████████████░   96.28 % 
+Python                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🔥 Editors: 
-Edge                     19 hrs 18 mins      █████████████████████████   100.00 % 
+Edge                     22 hrs 50 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-openvla                  9 hrs 24 mins       ████████████░░░░░░░░░░░░░   48.74 % 
-Endaxis                  8 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   41.64 % 
-XXMI-Launcher            1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-LIBERO                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Endaxis                  12 hrs 17 mins      █████████████░░░░░░░░░░░░   53.83 % 
+openvla                  9 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   41.18 % 
+XXMI-Launcher            34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Awesome-QuantDev-Learn   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+LIBERO                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Windows                  19 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -154,7 +155,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 05:34:44 UTC
+ Last Updated on 19/10/2026 05:53:44 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
