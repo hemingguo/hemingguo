@@ -74,9 +74,9 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -119,48 +119,48 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    25 hrs 55 mins      ██████████████████████░░░   89.96 % 
-Python                   2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-C++                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Other                    26 hrs 3 mins       ██████████████████████░░░   89.00 % 
+Python                   1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+C++                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Edge                     25 hrs 46 mins      ██████████████████████░░░   89.47 % 
-VS Code                  3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Edge                     26 hrs 29 mins      ███████████████████████░░   90.51 % 
+VS Code                  2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
 Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-Endaxis                  11 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   40.70 % 
-openvla                  8 hrs               ███████░░░░░░░░░░░░░░░░░░   27.81 % 
-Codeforces               5 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-VLA_KV                   2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Awesome-QuantDev-Learn   1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Endaxis                  11 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   40.06 % 
+openvla                  6 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+Codeforces               5 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Awesome-QuantDev-Learn   3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+VLA_KV                   1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 💻 Operating System: 
-Windows                  28 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 44 mins (9.51%)
+⏱ AI Coding Time: 2 hrs 28 mins (8.48%)
 
-✍️ 6,899 lines written by AI, 66 lines written by hand (99.05% AI-written)
+✍️ 6,135 lines written by AI, 66 lines written by hand (98.94% AI-written)
 
-🔤 1,766,261 Input Tokens, 269,065 Output Tokens
+🔤 1,573,507 Input Tokens, 238,711 Output Tokens
 
-💵 $31.36 Estimated AI Cost This Week
+💵 $27.57 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 40 AI Prompts
+🧠 7 AI Sessions, 38 AI Prompts
 
-GPT                      6,901 lines         █████████████████████████   100.00 % 
+GPT                      6,137 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.05% of written lines came from AI
-📝 Concise Prompter — average 74 characters per prompt
+🤖 AI-Driven — 98.94% of written lines came from AI
+📝 Concise Prompter — average 73 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.26% of changed lines were hand-edited
+🚀 High AI Trust — 1.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -176,7 +176,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 05:45:31 UTC
+ Last Updated on 21/10/2026 05:49:37 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
