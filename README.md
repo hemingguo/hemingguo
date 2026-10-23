@@ -119,48 +119,48 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    26 hrs 54 mins      ██████████████████████░░░   89.31 % 
-Python                   1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-C++                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Other                    28 hrs 5 mins       █████████████████████░░░░   83.14 % 
+C++                      3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Python                   1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Edge                     27 hrs 21 mins      ███████████████████████░░   90.82 % 
-VS Code                  2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Edge                     27 hrs 53 mins      █████████████████████░░░░   82.55 % 
+VS Code                  5 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Codex Vscode             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🐱‍💻 Projects: 
-Endaxis                  11 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   38.93 % 
-Awesome-QuantDev-Learn   6 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-Codeforces               5 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-openvla                  4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-VLA_KV                   1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Endaxis                  11 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   33.12 % 
+Codeforces               9 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+Awesome-QuantDev-Learn   8 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+VLA_KV                   1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+cpp-course               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 💻 Operating System: 
-Windows                  30 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  33 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 28 mins (8.2%)
+⏱ AI Coding Time: 3 hrs 31 mins (10.45%)
 
-✍️ 6,135 lines written by AI, 66 lines written by hand (98.94% AI-written)
+✍️ 8,999 lines written by AI, 616 lines written by hand (93.59% AI-written)
 
-🔤 1,522,281 Input Tokens, 237,328 Output Tokens
+🔤 1,935,207 Input Tokens, 324,707 Output Tokens
 
-💵 $27.27 Estimated AI Cost This Week
+💵 $43.27 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 37 AI Prompts
+🧠 10 AI Sessions, 61 AI Prompts
 
-GPT                      6,137 lines         █████████████████████████   100.00 % 
+GPT                      9,001 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.94% of written lines came from AI
-📝 Concise Prompter — average 69 characters per prompt
+🤖 AI-Driven — 93.59% of written lines came from AI
+📝 Concise Prompter — average 92 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.41% of changed lines were hand-edited
+🚀 High AI Trust — 10.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -176,7 +176,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 05:52:20 UTC
+ Last Updated on 23/10/2026 05:50:44 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
