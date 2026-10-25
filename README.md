@@ -74,9 +74,9 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -119,32 +119,32 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    32 hrs 6 mins       ████████████████████░░░░░   81.18 % 
-C++                      3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Python                   2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-PowerShell               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Other                    33 hrs 52 mins      ████████████████████░░░░░   81.98 % 
+C++                      3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Python                   2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+PowerShell               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-Edge                     31 hrs 54 mins      ████████████████████░░░░░   80.66 % 
-VS Code                  7 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Codex Vscode             32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Edge                     33 hrs 42 mins      ████████████████████░░░░░   81.57 % 
+VS Code                  7 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Codex Vscode             32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🐱‍💻 Projects: 
-Codeforces               11 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   28.34 % 
-Endaxis                  8 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-Awesome-QuantDev-Learn   8 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-learn                    5 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-cpp-course               1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+learn                    12 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   29.54 % 
+Codeforces               11 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+Awesome-QuantDev-Learn   8 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Endaxis                  3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+cpp-course               1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 💻 Operating System: 
-Windows                  39 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  41 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 21 mins (11.02%)
+⏱ AI Coding Time: 4 hrs 19 mins (10.46%)
 
 ✍️ 11,602 lines written by AI, 767 lines written by hand (93.8% AI-written)
 
@@ -152,13 +152,13 @@ Windows                  39 hrs 33 mins      ███████████�
 
 💵 $61.06 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 80 AI Prompts
+🧠 11 AI Sessions, 78 AI Prompts
 
 GPT                      11,611 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 93.8% of written lines came from AI
-📝 Concise Prompter — average 374 characters per prompt
+📝 Concise Prompter — average 383 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 10.33% of changed lines were hand-edited
 ```
@@ -176,7 +176,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 05:33:39 UTC
+ Last Updated on 25/10/2026 05:49:37 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
