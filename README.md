@@ -74,7 +74,7 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2053%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%201%20min-blue?style=flat)
 
@@ -90,26 +90,26 @@ Welcome, and feel free to reach me by email at 'sosljsos@pm.me'.
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 13 Private Repositories 
+> 🔑 14 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-🌆 Daytime                118 commits         ██████████████░░░░░░░░░░░   56.73 % 
-🌃 Evening                61 commits          ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+🌞 Morning                29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+🌆 Daytime                119 commits         ██████████████░░░░░░░░░░░   56.94 % 
+🌃 Evening                61 commits          ███████░░░░░░░░░░░░░░░░░░   29.19 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-Tuesday                  33 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Wednesday                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Thursday                 29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Friday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Saturday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Sunday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+Monday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+Tuesday                  34 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Wednesday                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Thursday                 29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Friday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Saturday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Sunday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
 ```
 
 
@@ -119,64 +119,64 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    31 hrs 44 mins      █████████████████████░░░░   84.80 % 
-C++                      3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Markdown                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Python                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-PowerShell               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Other                    32 hrs 35 mins      █████████████████████░░░░   85.61 % 
+C++                      3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Python                   41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+CMake                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-Edge                     31 hrs 42 mins      █████████████████████░░░░   84.73 % 
-VS Code                  5 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Codex Vscode             30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Edge                     32 hrs 4 mins       █████████████████████░░░░   84.28 % 
+VS Code                  5 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Codex Vscode             47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🐱‍💻 Projects: 
-learn                    16 hrs 55 mins      ███████████░░░░░░░░░░░░░░   45.21 % 
-Awesome-QuantDev-Learn   6 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Codeforces               6 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-rea                      3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-cpp-course               1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+learn                    18 hrs              ████████████░░░░░░░░░░░░░   47.32 % 
+Codeforces               5 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Awesome-QuantDev-Learn   4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+rea                      4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+cpp-course               1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 
 💻 Operating System: 
-Windows                  37 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  38 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 43 mins (7.26%)
+⏱ AI Coding Time: 2 hrs 31 mins (6.65%)
 
-✍️ 6,098 lines written by AI, 701 lines written by hand (89.69% AI-written)
+✍️ 7,534 lines written by AI, 775 lines written by hand (90.67% AI-written)
 
-🔤 1,683,455 Input Tokens, 273,964 Output Tokens
+🔤 1,786,429 Input Tokens, 261,762 Output Tokens
 
-💵 $43.99 Estimated AI Cost This Week
+💵 $43.59 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 55 AI Prompts
+🧠 10 AI Sessions, 61 AI Prompts
 
-GPT                      6,105 lines         █████████████████████████   100.00 % 
+GPT                      7,541 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.69% of written lines came from AI
-📄 Detailed Prompter — average 517 characters per prompt
+🤖 AI-Driven — 90.67% of written lines came from AI
+📝 Concise Prompter — average 481 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 17.0% of changed lines were hand-edited
+🚀 High AI Trust — 15.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ███████████████░░░░░░░░░░   59.09 % 
-C++                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Python                   13 repos            ██████████████░░░░░░░░░░░   56.52 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 
 
- Last Updated on 27/10/2026 06:05:00 UTC
+ Last Updated on 28/10/2026 06:43:35 UTC
 <!--END_SECTION:waka-->
 <!---
 hemingguo/hemingguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
